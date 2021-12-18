@@ -1,4 +1,3 @@
-```python
 import pyb
 import math
 def DistIRloop(msdelay=20):
@@ -21,4 +20,3 @@ def DistIRloop(msdelay=20):
     pyb.sync()
     red.off()
 DistIRloop()
-```
